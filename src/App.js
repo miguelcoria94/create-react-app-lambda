@@ -38,7 +38,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            This is my app
+            Bobis te amo!!!
           </p>
           <LambdaDemo />
         </header>
