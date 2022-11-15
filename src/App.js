@@ -11,7 +11,7 @@ const App = () => {
 
   return (
     <>
-    { switchImg && <img src="/emili.jpg" height={300} />}
+    { switchImg && <img src="/emili.jpg" height={300} alt="emili"/>}
      
       <button onClick={handleSwitch}> {switchImg ? "No Beso 💩" : "Un Beso 😘"}</button>
     </>
